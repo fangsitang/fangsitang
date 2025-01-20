@@ -20,4 +20,13 @@ Here's a brief overview of my skills, past work and projects 👇 :
 <p>
 → Derivatives pricing, hedging & valuation models
 
+<p>
+  <a href="https://github.com/fangsitang/derivatives">
+    <img src="images/stock_market_bw.png" alt="Python" width="400" height="100">
+<p>
+→ Trend-following trading algo using random forest & linear regression
+
+
+  
+
 
