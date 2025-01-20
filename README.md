@@ -19,6 +19,10 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 <p float="left">
   <img src="images/stock_market_bw.png" width="100" />
+   <a href="https://github.com/fangsitang/derivatives">
+     <img src="images/stock_market_bw.png" alt="Derivatives" width="400" height="100">
+      </a>
+
   <img src="/images/stock_market_bw.png" width="100" /> 
 </p>
 
