@@ -17,17 +17,17 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 ## Past work & Projects 🚀
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div style="text-align: center;">
     <a href="https://github.com/fangsitang/derivatives">
-      <img src="images/stock_market_bw.png" alt="Python" width="400" height="100">
+      <img src="images/stock_market_bw.png" alt="Derivatives" width="400" height="100">
     </a>
     <p style="margin-top: 5px;">→ Derivatives pricing, hedging & valuation models</p>
   </div>
 
   <div style="text-align: center;">
     <a href="https://github.com/fangsitang/derivatives">
-      <img src="images/stock_market_bw.png" alt="Python" width="400" height="100">
+      <img src="images/stock_market_bw.png" alt="Trend-following" width="400" height="100">
     </a>
     <p style="margin-top: 5px;">→ Trend-following trading algo using random forest & linear regression</p>
   </div>
