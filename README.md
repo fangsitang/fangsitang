@@ -18,7 +18,7 @@ Here's a brief overview of my skills, past work and projects 👇 :
 ## Past work & Projects 🚀
 
 <div>
-  <img src="/images/stock_market_bw.png" width="300" style="vertical-align: middle;" />
+  <img src="/images/stock_market_bw.png" width="300">
   <span style="vertical-align: middle;">Some text here fjdskalfjdksla;fjdklsa;fjkdslajfjjfdksl</span>
 </div>
 
