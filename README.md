@@ -1,7 +1,7 @@
 # Hi, I'm Fang 👋
 I'm passionate about quant finance, portfolio management and trading - all things related to maximizing ROI 🫡 📈. 
 
-📩 fangsitang@outlook.com
+📩 fangsitang@outlook.com <br>
 👤 <a href="https://www.linkedin.com/in/fangsitang" target="_blank">LinkedIn</a>
 
 Here's a brief overview of my skills, past work and projects 👇 :
