@@ -1,7 +1,7 @@
 # Hi, I'm Fang 👋
 I'm passionate about quant finance, portfolio management and trading - all things related to maximizing ROI 🫡 📈.
 
-📩 fangsitang@outlook.com 
+📩 fangsitang@outlook.com\
 👤 <a href="https://www.linkedin.com/in/fangsitang" target="_blank">LinkedIn</a> 
 
 Here's a brief overview of my skills, past work and projects 👇 :
@@ -17,10 +17,10 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 ## Past work & Projects 🚀
 
-✔ Trend-following trading algo using random forest & linear regression → [See Overview](https://github.com/fangsitang/trading)
-✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)
-✔ Portfolio attribution (brinson model) → [See Overview](https://github.com/fangsitang/portfolio_attribuion)
-✔ Portfolio optimization → [See Overview](https://github.com/fangsitang/portfolio_optimization)
+✔ Trend-following trading algo using random forest & linear regression → [See Overview](https://github.com/fangsitang/trading)\
+✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
+✔ Portfolio attribution (brinson model) → [See Overview](https://github.com/fangsitang/portfolio_attribuion)\
+✔ Portfolio optimization → [See Overview](https://github.com/fangsitang/portfolio_optimization)\
   
 
 ## Personal Project 🐷
