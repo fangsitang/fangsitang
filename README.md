@@ -19,12 +19,10 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 <div>
   <img src="/images/stock_market_bw.png" width="300">
-  <span style="vertical-align: middle;">Some text here fjdskalfjdksla;fjdklsa;fjkdslajfjjfdksl</span>
+  <span style="vertical-align: middle;">Some text here fjdskalfjdksla;fjdklsa;fjkdslajfjjfdksl Derivatives pricing & hedging
+Trend-following trading algo using random forest & linear regression</span>
 </div>
 
-
-Derivatives pricing & hedging
-Trend-following trading algo using random forest & linear regression
 
 
   
