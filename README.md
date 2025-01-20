@@ -17,6 +17,7 @@ Here's a brief overview of my info, skills, past work and projects 👇 :
   <img src="images/logo_matlab.png" alt="Matlab" width="50" height="45">
   <img src="images/logo_powerbi.png" alt="Power BI" width="40" height="40">
 </p>
+<br>
 
 ## Past work & Projects 🚀
 
