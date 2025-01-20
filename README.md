@@ -19,12 +19,15 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 <p float="left">
   <a href="https://github.com/fangsitang/derivatives">
-    <img src="images/stock_market_bw.png" width="300" />
+    <img src="images/stock_market_bw.png" width="300" style="margin-right: 30px;" />
   </a>
   <a href="https://github.com/fangsitang/derivatives">
     <img src="images/stock_market_bw.png" width="300" />
   </a>
 </p>
+
+Derivatives pricing & hedging
+Trend-following trading algo using random forest & linear regression
 
 
   
