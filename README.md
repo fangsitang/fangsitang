@@ -27,9 +27,9 @@ Here's a brief overview of my info, skills, past work and projects 👇 :
 ✔ Portfolio optimization → [See Overview](https://github.com/fangsitang/portfolio_optimization)
   
 
-## Personal Project 🐷
+## Personal Project 🤓
 
 ✔ Stock & crypto investing → [See Overview](https://github.com/fangsitang/stock_investing)
 
 ## Other
-My interests : marathons 👟 · gaming 👾 · trading 📈 · ESG 🌱 · sports 🏀
+*My interests* : gaming 👾 · trading 📈 · ESG 🌱 · sports 🏀 · marathon running 👟
