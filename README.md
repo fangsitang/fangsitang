@@ -10,7 +10,7 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 <p>
   <img src="images/logo_python.jpg" alt="Python" width="50" height="50">
-  <img src="images/logo_slq.png" alt="SQL" width="100" height="50">
+  <img src="images/logo_slq.png" alt="SQL" width="50" height="50">
   <img src="images/logo_matlab.png" alt="Matlab" width="70" height="50">
   <img src="images/logo_powerbi.png" alt="Power BI" width="50" height="50">
 </p>
