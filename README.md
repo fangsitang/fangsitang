@@ -17,10 +17,10 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 ## Past work & Projects 🚀
 
-✔ Trend-following trading algo using random forest & linear regression ➡ [See Overview](https://github.com/fangsitang/derivatives)
+✔ Trend-following trading algo using random forest & linear regression → [See Overview](https://github.com/fangsitang/trading)
 <br>
-✔ Derivatives hedging & valuation ➡ [See Overview](https://github.com/fangsitang/derivatives)
-
-
+✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)
+✔ Portfolio attribution (brinson model) → [See Overview](https://github.com/fangsitang/portfolio_attribuion)
+✔ Portfolio optimization → [See Overview](https://github.com/fangsitang/portfolio_optimization)
   
 
