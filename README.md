@@ -18,30 +18,18 @@ Here's a brief overview of my skills, past work and projects 👇 :
 ## Past work & Projects 🚀
 
 <p float="left">
-  <img src="images/stock_market_bw.png" width="100" />
-   <a href="https://github.com/fangsitang/derivatives">
-     <img src="images/stock_market_bw.png" alt="Derivatives" width="400" height="100">
-      </a>
+  <a href="https://github.com/fangsitang/derivatives">
+    <img src="images/stock_market_bw.png" width="100" />
+  </a>
+  <br>
+  <span style="display: block; text-align: center;">Derivatives pricing, hedging & valuation models</span>
 
-  <img src="/images/stock_market_bw.png" width="100" /> 
+  <a href="https://github.com/fangsitang/derivatices">
+    <img src="images/stock_market_bw.png" width="100" />
+  </a>
+  <br>
+  <span style="display: block; text-align: center;">Trend-following trading algo using random forest & linear regression</span>
 </p>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <div style="text-align: center;">
-    <a href="https://github.com/fangsitang/derivatives">
-      <img src="images/stock_market_bw.png" alt="Derivatives" width="400" height="100">
-    </a>
-    <p style="margin-top: 5px;">→ Derivatives pricing, hedging & valuation models</p>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/fangsitang/derivatives">
-      <img src="images/stock_market_bw.png" alt="Trend-following" width="400" height="100">
-    </a>
-    <p style="margin-top: 5px;">→ Trend-following trading algo using random forest & linear regression</p>
-  </div>
-</div>
-
 
   
 
