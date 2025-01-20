@@ -5,7 +5,9 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 ## Technologies I work with 🔧
 
-![Python](images/logo_python.webp)
-![Python](images/logo_slq.png)
-![Matlab](images/logo_matlab.png)
-![Power BI](images/logo_power_bi.png)
+<p>
+  <img src="images/logo_python.webp" alt="Python" width="50" height="50">
+  <img src="images/logo_slq.png" alt="SQL" width="50" height="50">
+  <img src="images/logo_matlab.png" alt="Matlab" width="50" height="50">
+  <img src="images/logo_power_bi.png" alt="Power BI" width="50" height="50">
+</p>
