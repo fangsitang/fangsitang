@@ -17,16 +17,10 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 ## Past work & Projects 🚀
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<p float="left">
+  <img src="images/stock_market_bw.png" width="100" />
+  <img src="/images/stock_market_bw.png" width="100" /> 
+</p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div style="text-align: center;">
