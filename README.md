@@ -5,3 +5,6 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 ## Technologies I work with 🔧
 
+![Python](images/logo_python)
+
+
