@@ -1,5 +1,5 @@
 # Hi, I'm Fang 👋
-I'm passionate about quant finance, portfolio management and trading - all things related to maximizing ROI 📈.
+I'm passionate about quant finance, portfolio management and trading - all things related to maximizing ROI 🫡 📈.
 
 Here's a brief overview of my skills, past work and projects 👇 :
 
@@ -16,6 +16,8 @@ Here's a brief overview of my skills, past work and projects 👇 :
 
 <p>
   <a href="https://github.com/fangsitang/derivatives">
-    <img src="images/stock_market_bw.png" alt="Python" width="500" height="200">
+    <img src="images/stock_market_bw.png" alt="Python" width="400" height="100">
 <p>
+→ Derivatives pricing, hedging & valuation models
+
 
