@@ -19,12 +19,6 @@ Here's a brief overview of my info, skills, past work and projects 👇 :
 </p>
 <br>
 
-### Skills 📋
-
-*Skills* : fundamental analysis · technical analysis · machine learning techniques · data cleaning & visualization · sales · risk management
-*Knowledge of* : modern portfolio theory · time series analysis · numerial methods
-
-
 ## Past work & Projects 🚀
 
 ✔ Trend-following trading strategy (using machine learning, technical indicators & macro data) → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
