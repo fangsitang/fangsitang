@@ -1,6 +1,7 @@
 # Hi, I'm Fang 👋
-I'm passionate about finance, portfolio management & trading - all things related to maximizing ROI 🫡 📈. Also very interested in business, AI and tech!
+I'm passionate about finance & portfolio management - all things related to maximizing ROI 🫡 📈. 
 
+I've worked in business, finance and sales since 2021. 
 Here's a brief overview of my info, skills, past work and projects 👇 :
 
 ## Contact
