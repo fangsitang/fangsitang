@@ -1,5 +1,5 @@
 # Hi, I'm Fang 👋
-I'm passionate about quant finance, portfolio management and trading - all things related to maximizing ROI 🫡 📈.
+I'm passionate about quant finance, portfolio management and data analysis - all things related to maximizing ROI 🫡 📈!
 
 Here's a brief overview of my info, skills, past work and projects 👇 :
 
