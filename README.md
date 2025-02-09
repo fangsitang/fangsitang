@@ -26,7 +26,7 @@ Here's a brief overview of my info, skills, past work and projects 👇 :
 ✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
 ✔ Portfolio attribution (brinson model) → [See Overview](https://github.com/fangsitang/portfolio_performance)
 
-*Please refer to my CV for more details, as some of my past projects contain data which cannot be disclosed publicly!*
+*Please refer to my CV for large-scale projects containing data which cannot be disclosed publicly.*
   
 ## Personal Project 🤓
 
