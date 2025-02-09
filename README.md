@@ -7,7 +7,7 @@ Here's a brief overview of my info, skills, past work and projects 👇 :
 
 📩 fangsitang@outlook.com\
 👤 <a href="https://www.linkedin.com/in/fangsitang" target="_blank">LinkedIn</a> \
-📄 [Resume](https://github.com/fangsitang/fangsitang/blob/90ac00e61ca0eda6a9a461fa4a7281a599d8e9b9/images/resume.pdf)
+📄 [Resume](https://github.com/fangsitang/fangsitang/blob/21a1fbe790badbf70923359bda9d7b98c11008da/images/Fang%20Si%20Tang_CV_Junior%20Statistician.pdf)
 
 ## Technologies I work with 🔧
 
