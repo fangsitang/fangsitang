@@ -1,7 +1,7 @@
 # Hi, I'm Fang 👋
 I'm passionate about finance & portfolio management - all things related to maximizing ROI 🫡 📈. 
 
-I've worked in business, finance and sales since 2021. 
+I've worked in business, finance and sales since 2021. \
 Here's a brief overview of my info, skills, past work and projects 👇 :
 
 ## Contact
