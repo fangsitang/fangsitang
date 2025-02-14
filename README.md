@@ -1,8 +1,7 @@
 # Hi, I'm Fang 👋
 I'm passionate about finance & portfolio management - all things related to maximizing ROI 🫡 📈. 
 
-I worked as a data analyst for business, finance and sales projects since 2021. \
-Here's a brief overview of my info, skills, past work and projects 👇 :
+Here's a brief overview of my info, skills and projects 👇 (for past work, please refer to my CV) :
 
 ## Contact
 
