@@ -1,5 +1,5 @@
 # Hi, I'm Fang 👋
-I'm passionate about finance & portfolio management - all things related to maximizing ROI 🫡 📈. 
+I'm passionate about finance, investing and trading - all things related to maximizing ROI 🫡 📈. 
 
 Here's a brief overview of my info, skills and projects 👇 (for past work, please refer to my CV) :
 
