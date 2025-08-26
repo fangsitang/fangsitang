@@ -1,6 +1,5 @@
 # Hi, I'm Fang 👋
-I'm passionate about the future of business and tech in the age of AI 🧠,
-and I've been investing and trading over 5 years now 🫡📈.
+I'm passionate about business, tech, investing and trading - all things maximizing ROI 🫡📈.
 
 Here's a brief overview of my info, skills and some sample projects 👇 :
 
