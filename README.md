@@ -18,7 +18,7 @@ Here's a brief overview of my info, skills and projects 👇 (for past work, ple
 </p>
 <br>
 
-## Past work & Projects 🚀
+## Derivatives, Portfolio Management and Trading 🚀
 
 ✔ Trend-following trading strategy (using machine learning, technical indicators & macro data) → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
 ✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
@@ -26,9 +26,9 @@ Here's a brief overview of my info, skills and projects 👇 (for past work, ple
 
 *Please refer to my CV for large-scale projects containing data which cannot be disclosed publicly.*
   
-## Personal Project 🤓
+## Wealth Management and Investing 🥧
 
-✔ Stock & crypto investing / trading → [See My Positions](https://github.com/fangsitang/personal_projects)
+✔ A breakdown of my research and returns → [See My Research and Positions](https://github.com/fangsitang/personal_projects)
 
 ## Other
 *My interests* : gaming 👾 · options / futures trading 📈 · ESG 🌱 · sports 🏀 · marathon running 👟
