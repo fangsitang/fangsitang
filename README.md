@@ -1,7 +1,7 @@
 # Hi, I'm Fang 👋
-I'm passionate about the future of business and tech in the era of AI. Obsessed with investing and trading - all things related to maximizing ROI 🫡 📈. 
+I'm passionate about the future of business and tech in the age of AI 🧠.
 
-Here's a brief overview of my info, skills and projects 👇 (for past work, please refer to my CV) :
+Here's a brief overview of my info, skills and some sample projects 👇 :
 
 ## Contact
 
@@ -22,9 +22,9 @@ Here's a brief overview of my info, skills and projects 👇 (for past work, ple
 
 ✔ Trend-following trading strategy (using machine learning, technical indicators & macro data) → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
 ✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
-✔ Portfolio attribution (brinson model) → [See Overview](https://github.com/fangsitang/portfolio_performance)
+✔ Portfolio attribution → [See Overview](https://github.com/fangsitang/portfolio_performance)
 
-*Please refer to my CV for large-scale projects containing data which cannot be disclosed publicly.*
+*Please refer to my CV for large-scale projects containing information which cannot be disclosed publicly.*
   
 ## Wealth Management and Investing 🥧
 
