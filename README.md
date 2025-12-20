@@ -6,7 +6,6 @@ Here's a brief overview of my info, skills and some sample projects 👇 :
 ## Contact
 
 📩 fangsitang@outlook.com\
-👤 <a href="https://www.linkedin.com/in/fangsitang" target="_blank">LinkedIn</a>
 
 ## Technologies I work with 🔧
 
