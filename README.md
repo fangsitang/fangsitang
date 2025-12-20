@@ -5,7 +5,7 @@ Here's a brief overview of my info, skills and some sample projects 👇 :
 
 ## Contact
 
-📩 fangsitang@outlook.com\
+📩 fangsitang@outlook.com
 
 ## Technologies I work with 🔧
 
@@ -17,17 +17,16 @@ Here's a brief overview of my info, skills and some sample projects 👇 :
 </p>
 <br>
 
-## Derivatives, Portfolio Management and Trading 🚀
+## Risk Management, Portfolio Construction and Trading 🚀
 
 ✔ Trend-following trading strategy (using machine learning, technical indicators & macro data) → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
 ✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
-✔ Portfolio attribution → [See Overview](https://github.com/fangsitang/portfolio_performance)
-
-*Please refer to my CV for large-scale projects containing information which cannot be disclosed publicly.*
+✔ Portfolio attribution → [See Overview](https://github.com/fangsitang/portfolio_performance)\
+✔ Portfolio construction methods (mean variance, risk parity, parametric, etc.)→ [See Overview](https://github.com/fangsitang/TP2_PortfolioManagement)
   
-## Wealth Management and Investing 🥧
+## Investing 🥧
 
-✔ A breakdown of my research and returns → [See My Research and Positions](https://github.com/fangsitang/personal_projects)
+✔ My own portfolio → [See My Research and Positions](https://github.com/fangsitang/personal_projects)
 
 ## Other
 *My interests* : gaming 👾 · options / futures trading 📈 · ESG 🌱 · sports 🏀 · marathon running 👟
