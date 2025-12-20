@@ -22,7 +22,8 @@ Here's a brief overview of my info, skills and some sample projects 👇 :
 ✔ Trend-following trading strategy (using machine learning, technical indicators & macro data) → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
 ✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
 ✔ Portfolio attribution → [See Overview](https://github.com/fangsitang/portfolio_performance)\
-✔ Portfolio construction methods (mean variance, risk parity, parametric, etc.)→ [See Overview](https://github.com/fangsitang/TP2_PortfolioManagement)
+✔ Portfolio construction methods (mean variance, risk parity, parametric, etc.) → [See Overview](https://github.com/fangsitang/TP2_PortfolioManagement)\
+✔ MAXSER portfolio construction (master's project) → to be posted.
   
 ## Investing 🥧
 
