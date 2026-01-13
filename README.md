@@ -1,5 +1,5 @@
 # Hi, I'm Fang 👋
-I'm passionate about business, tech, investing and trading - all things maximizing ROI 🫡📈.
+I'm passionate about investing, trading and portfolio management - all things maximizing ROI 🫡📈.
 
 Here's a brief overview of my info, skills and some sample projects 👇 :
 
