@@ -8,7 +8,6 @@ Here's a brief overview of my info, skills and some sample projects 👇 :
 📩 tangfangsi@live.com
 
 ## Technologies I work with 🔧
-
 <p>
   <img src="images/logo_python.jpg" alt="Python" width="50" height="50">
   <img src="images/logo_slq.png" alt="SQL" width="50" height="50">
@@ -18,15 +17,15 @@ Here's a brief overview of my info, skills and some sample projects 👇 :
 <br>
 
 ## Projects 🚀
-✔ Trend-following trading strategy (using machine learning, technical indicators & macro data) → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
+✔ Futures trend-following trading strategy → [See Overview](https://github.com/fangsitang/Trading-Algo-Random-Forest)\
 ✔ Derivatives hedging & valuation → [See Overview](https://github.com/fangsitang/derivatives)\
 ✔ Portfolio attribution → [See Overview](https://github.com/fangsitang/portfolio_performance)\
 ✔ Portfolio construction methods (mean variance, risk parity, parametric, etc.) → [See Overview](https://github.com/fangsitang/TP2_PortfolioManagement)\
-✔ MAXSER portfolio construction (master's project) → to be posted.
+✔ MAXSER portfolio construction - Factors & Stocks (Master's supervised project) → to be posted.
 
 ## Personal investing & trading 🥧
 
-✔ My own portfolio → [See My Research and Positions](https://github.com/fangsitang/personal_projects)
+✔ My own portfolio → [See Snapshot](https://github.com/fangsitang/personal_projects)
 
 ## Other
 *My interests* : gaming 👾 · options / FX trading 📈 · ESG 🌱 · sports 🏀 · marathons 👟
